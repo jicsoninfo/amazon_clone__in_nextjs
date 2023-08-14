@@ -1,0 +1,25 @@
+
+
+…or create a new repository on the command line
+echo "# amazon_clone__in_nextjs" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jicsoninfo/amazon_clone__in_nextjs.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/jicsoninfo/amazon_clone__in_nextjs.git
+git branch -M main
+git push -u origin main
+
+Ok to proceed? (y) y
+✔ Would you like to use TypeScript? … No / Yes
+✔ Would you like to use ESLint? … No / Yes
+✔ Would you like to use Tailwind CSS? … No / Yes
+✔ Would you like to use `src/` directory? … No / Yes
+✔ Would you like to use App Router? (recommended) … No / Yes
+✔ Would you like to customize the default import alias? … No / Yes
+? What import alias would you like configured? › 
+
