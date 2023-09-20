@@ -28,7 +28,7 @@ const config: Config = {
         amazon_blue: "#131921",
       },
       fontFamily: {
-        bodyFont: ["Poppins", "sans-serif", "Roboto"],
+        bodyFont: ["sans-serif", "Roboto"],
       },
     },
   },

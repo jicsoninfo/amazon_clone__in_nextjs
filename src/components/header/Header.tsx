@@ -14,14 +14,16 @@ const Header = () => {
             {/* <p>Hello</p> */}
 
             {/* delivery */}
-            <div className="px-2 border border-transparent hover:border-white curson-pointer duration-300 items-center justify-center h-[70%] hidden xl:inline-flex gap-1">
+            <div className="text-white px-2 border border-transparent hover:border-white curson-pointer duration-300 items-center justify-center h-[70%] hidden xl:inline-flex gap-1">
                 <SlLocationPin />
                 <div className="text-xs">
                     <p>Deliver to</p>
-                    <p className="text-white font-bold uppercase">USA</p>
+                    <p className="font-bold uppercase">USA</p>
                 </div>
             </div>
+
             {/* serchbar */}
+            
             {/* signin */}
             {/* favorite */}
             {/* cart */}

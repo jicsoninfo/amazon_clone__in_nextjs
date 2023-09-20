@@ -14,6 +14,10 @@ git remote add origin https://github.com/jicsoninfo/amazon_clone__in_nextjs.git
 git branch -M main
 git push -u origin main
 
+
+https://youtu.be/vviFia-Stqk?si=QzLbtnBjHv-viIrM
+
+
 Ok to proceed? (y) y
 ✔ Would you like to use TypeScript? … No / Yes
 ✔ Would you like to use ESLint? … No / Yes
@@ -22,4 +26,37 @@ Ok to proceed? (y) y
 ✔ Would you like to use App Router? (recommended) … No / Yes
 ✔ Would you like to customize the default import alias? … No / Yes
 ? What import alias would you like configured? › 
+
+
+
+Building Amazon Clone with Nextjs 13 (ReactJS, ReduxToolkit, Stripejs)
+
+Noor Mohammad
+3.08K subscribers
+
+Subscribe
+
+425
+
+
+Share
+
+Download
+
+Save
+
+12,556 views  4 Jul 2023  Learning React
+🚀 Welcome to our channel! In this comprehensive tutorial, we'll guide you through the process of creating your very own Amazon clone using Next.js 13.4.8. Learn how to build a robust and feature-rich e-commerce website that closely mimics the renowned online marketplace.
+
+🛒 Key Features Covered:
+
+Stripe Payment Integration: Discover how to seamlessly integrate the Stripe payment system to provide your customers with secure and convenient payment options.
+AuthJS Login: Implement AuthJS for smooth and secure user authentication, enhancing the overall user experience.
+Tailwind CSS: Elevate the visual appeal of your website with Tailwind CSS, a powerful utility-first CSS framework.
+Redux for State Management: Harness the power of Redux-Toolkit to efficiently manage application state, ensuring smooth data flow.
+By the end of this video, you'll possess the knowledge and skills needed to create a stunning Amazon clone with Stripe payment integration. Don't forget to subscribe to our channel to stay up-to-date with the latest technology tutorials and development tips.
+
+🔗 Live Project Link: amazon.reactbd.com
+🔗 GitHub Repository: github.com/noorjsdivs/amazon_next_yt
+🔗 GitHub Repo Clone Link: git clone https://github.com/noorjsdivs/amazon_...
 
