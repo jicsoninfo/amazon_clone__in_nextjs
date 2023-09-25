@@ -28,24 +28,10 @@ Ok to proceed? (y) y
 ? What import alias would you like configured? › 
 
 
-
 Building Amazon Clone with Nextjs 13 (ReactJS, ReduxToolkit, Stripejs)
-
 Noor Mohammad
-3.08K subscribers
 
-Subscribe
-
-425
-
-
-Share
-
-Download
-
-Save
-
-12,556 views  4 Jul 2023  Learning React
+ 4 Jul 2023  Learning React
 🚀 Welcome to our channel! In this comprehensive tutorial, we'll guide you through the process of creating your very own Amazon clone using Next.js 13.4.8. Learn how to build a robust and feature-rich e-commerce website that closely mimics the renowned online marketplace.
 
 🛒 Key Features Covered:
@@ -60,3 +46,21 @@ By the end of this video, you'll possess the knowledge and skills needed to crea
 🔗 GitHub Repository: github.com/noorjsdivs/amazon_next_yt
 🔗 GitHub Repo Clone Link: git clone https://github.com/noorjsdivs/amazon_...
 
+
+for install fresh project
+npx create-next-app@latest project_name
+
+Ok to proceed? (y) y
+✔ Would you like to use TypeScript? … No / Yes --yes
+✔ Would you like to use ESLint? … No / Yes --yes
+✔ Would you like to use Tailwind CSS? … No / Yes  --yes
+✔ Would you like to use `src/` directory? … No / Yes  --yes
+✔ Would you like to use App Router? (recommended) … No / Yes   --No
+✔ Would you like to customize the default import alias? … No / Yes --Yes
+? What import alias would you like configured? › 
+
+run the command for run 
+npm run dev 
+remove all index.tsx for new project
+
+npm install react-icons --save
