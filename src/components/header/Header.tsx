@@ -8,7 +8,8 @@ import Link from "next/link";
 
 const Header = () => {
    return(
-    <div className="w-full h-20 bg-amazon_blue text-lightText sticky top-0 z-50" >
+    // <div className="w-full h-20 bg-amazon_blue text-lightText sticky top-0 z-50">
+    <div className="w-full h-20 bg-amazon_blue text-lightText top-0 z-50" >
         {/* <h1>Header</h1> */}
         <div className="h-full w-full mx-auto inline-flex items-center justify-between gap-1 md1:gap-3 px-4">
            {/* logo */}
